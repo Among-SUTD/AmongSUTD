@@ -1,0 +1,4 @@
+Player8, Player11, Player10, Player6, Player23, Player21
+Player1, Player24, Player9, Player15, Player17, Player3
+Player7, Player12, Player4, Player2, Player14, Player19
+Player20, Player22, Player18, Player16, Player13, Player5
